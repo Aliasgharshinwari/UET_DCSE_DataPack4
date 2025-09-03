@@ -1,0 +1,11 @@
+21PWCSE2059
+f=2, g=0. h=5, i=9
+
+controller (-fx2, -gx2, -hx2, -ix2)
+observer (-fx10, -gx10, -hx10, -ix10)
+
+controller (-2x2, -0x2, -5x2, -9x2)
+observer (-2x10, -0x10, -5x10, -9x10)
+
+controller (-4, 0, -10, -18)
+observer (-20, 0, -50, -90)

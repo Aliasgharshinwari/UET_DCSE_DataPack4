@@ -1,0 +1,732 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.5.14)  8 JAN 2025 11:29
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Report_Control_Systems.tex
+(Report_Control_Systems.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count187
+\c@section=\count188
+\c@subsection=\count189
+\c@subsubsection=\count190
+\c@paragraph=\count191
+\c@subparagraph=\count192
+\c@figure=\count193
+\c@table=\count194
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen141
+))
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+)
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count195
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count196
+\leftroot@=\count197
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count198
+\DOTSCASE@=\count199
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count266
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count267
+\dotsspace@=\muskip16
+\c@parentequation=\count268
+\dspbrk@lvl=\count269
+\tag@help=\toks18
+\row@=\count270
+\column@=\count271
+\maxfields@=\count272
+\andhelp@=\toks19
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks20
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/graphics\epsfig.sty
+Package: epsfig 2017/06/25 v1.7b (e)psfig emulation (SPQR)
+
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+\epsfxsize=\dimen152
+\epsfysize=\dimen153
+)
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+)
+\c@r@tfl@t=\count273
+\rotFPtop=\skip53
+\rotFPbot=\skip54
+\rot@float@box=\box53
+\rot@mess@toks=\toks23
+)
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen154
+\captionmargin=\dimen155
+\caption@leftmargin=\dimen156
+\caption@rightmargin=\dimen157
+\caption@width=\dimen158
+\caption@indent=\dimen159
+\caption@parindent=\dimen160
+\caption@hangindent=\dimen161
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count274
+\c@continuedfloat=\count275
+Package caption Info: rotating package is loaded.
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count276
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count277
+) (C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pdfpages.sty
+Package: pdfpages 2024/05/29 v0.6a Insert pages of external PDF documents (AM)
+
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count278
+\calc@Bcount=\count279
+\calc@Adimen=\dimen162
+\calc@Bdimen=\dimen163
+\calc@Askip=\skip55
+\calc@Bskip=\skip56
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count280
+\calc@Cskip=\skip57
+)
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/eso-pic\eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen164
+\ESO@tempdimb=\dimen165
+
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1354.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+))
+\AM@pagewidth=\dimen166
+\AM@pageheight=\dimen167
+\AM@fboxrule=\dimen168
+
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/pdfpages\pppdftex.def
+File: pppdftex.def 2024/05/29 v0.6a Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count281
+\AM@pagebox=\box54
+\AM@global@opts=\toks24
+\AM@pagecnt=\count282
+\AM@toc@title=\toks25
+\AM@lof@heading=\toks26
+\c@AM@survey=\count283
+\AM@templatesizebox=\box55
+)
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count284
+\l__pdf_internal_box=\box56
+) (Report_Control_Systems.aux
+
+LaTeX Warning: Label `fig:stepResponse' multiply defined.
+
+
+LaTeX Warning: Label `fig:MatlabCode2' multiply defined.
+
+
+LaTeX Warning: Label `fig:MatlabCode4' multiply defined.
+
+
+LaTeX Warning: Label `fig:MatlabCode5' multiply defined.
+
+
+LaTeX Warning: Label `fig:MatlabCode5' multiply defined.
+
+)
+\openout1 = `Report_Control_Systems.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count285
+\scratchdimen=\dimen169
+\scratchbox=\box57
+\nofMPsegments=\count286
+\nofMParguments=\count287
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count288
+\MPscratchDim=\dimen170
+\MPnumerator=\count289
+\makeMPintoPDFobject=\count290
+\everyMPtoPDFconversion=\toks28
+)
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape-nom
+etadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+(C:\Users\aalia\AppData\Local\Programs\MiKTeX\tex/latex/graphics\lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+
+pdfTeX warning: pdflatex.exe (file ./CoverPage.pdf): PDF inclusion: found PDF v
+ersion <1.7>, but at most version <1.5> allowed
+<CoverPage.pdf, id=1, 614.295pt x 794.97pt>
+File: CoverPage.pdf Graphic file (type pdf)
+<use CoverPage.pdf>
+Package pdftex.def Info: CoverPage.pdf  used on input line 8.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./CoverPage.pdf): PDF inclusion: found PDF v
+ersion <1.7>, but at most version <1.5> allowed
+File: CoverPage.pdf Graphic file (type pdf)
+<use CoverPage.pdf>
+Package pdftex.def Info: CoverPage.pdf  used on input line 8.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./CoverPage.pdf): PDF inclusion: found PDF v
+ersion <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.exe (file ./CoverPage.pdf): PDF inclusion: found PDF v
+ersion <1.7>, but at most version <1.5> allowed
+<CoverPage.pdf, id=4, page=1, 614.295pt x 794.97pt>
+File: CoverPage.pdf Graphic file (type pdf)
+<use CoverPage.pdf, page 1>
+Package pdftex.def Info: CoverPage.pdf , page1 used on input line 8.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: CoverPage.pdf Graphic file (type pdf)
+<use CoverPage.pdf, page 1>
+Package pdftex.def Info: CoverPage.pdf , page1 used on input line 8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: CoverPage.pdf Graphic file (type pdf)
+<use CoverPage.pdf, page 1>
+Package pdftex.def Info: CoverPage.pdf , page1 used on input line 8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: CoverPage.pdf Graphic file (type pdf)
+<use CoverPage.pdf, page 1>
+Package pdftex.def Info: CoverPage.pdf , page1 used on input line 8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: CoverPage.pdf Graphic file (type pdf)
+<use CoverPage.pdf, page 1>
+Package pdftex.def Info: CoverPage.pdf , page1 used on input line 8.
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+[1
+
+
+ <./CoverPage.pdf>] (Report_Control_Systems.toc)
+\tf@toc=\write3
+\openout3 = `Report_Control_Systems.toc'.
+
+ [2{C:/Users/aalia/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 23--35
+
+ []
+
+[3]
+<images/stepResponse.png, id=45, 375.4025pt x 310.66063pt>
+File: images/stepResponse.png Graphic file (type png)
+<use images/stepResponse.png>
+Package pdftex.def Info: images/stepResponse.png  used on input line 138.
+(pdftex.def)             Requested size: 281.55118pt x 232.99489pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/stepResponse_Simulink.png, id=47, 774.39313pt x 509.40312pt>
+File: images/stepResponse_Simulink.png Graphic file (type png)
+<use images/stepResponse_Simulink.png>
+Package pdftex.def Info: images/stepResponse_Simulink.png  used on input line 1
+45.
+(pdftex.def)             Requested size: 387.19562pt x 254.70093pt.
+
+Overfull \hbox (42.19562pt too wide) in paragraph at lines 145--146
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 150--151
+
+ []
+
+[4]
+<images/poleZeroMap.png, id=51, 373.89688pt x 300.12125pt>
+File: images/poleZeroMap.png Graphic file (type png)
+<use images/poleZeroMap.png>
+Package pdftex.def Info: images/poleZeroMap.png  used on input line 184.
+(pdftex.def)             Requested size: 280.42197pt x 225.09038pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/rootLocus.png, id=52, 391.96437pt x 307.64937pt>
+File: images/rootLocus.png Graphic file (type png)
+<use images/rootLocus.png>
+Package pdftex.def Info: images/rootLocus.png  used on input line 195.
+(pdftex.def)             Requested size: 293.97255pt x 230.73645pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[5 <./images/stepResponse.png>] [6 <./images/stepResponse_Simulink.png>]
+[7 <./images/poleZeroMap.png (PNG copy)> <./images/rootLocus.png>] [8] [9]
+<images/MatlabCode1.png, id=74, 427.5975pt x 315.1775pt>
+File: images/MatlabCode1.png Graphic file (type png)
+<use images/MatlabCode1.png>
+Package pdftex.def Info: images/MatlabCode1.png  used on input line 341.
+(pdftex.def)             Requested size: 363.45958pt x 267.90213pt.
+
+Overfull \hbox (18.45958pt too wide) in paragraph at lines 341--342
+ [][] 
+ []
+
+<images/MatlabCode2.png, id=75, 501.37312pt x 314.67563pt>
+File: images/MatlabCode2.png Graphic file (type png)
+<use images/MatlabCode2.png>
+Package pdftex.def Info: images/MatlabCode2.png  used on input line 348.
+(pdftex.def)             Requested size: 376.02892pt x 236.00613pt.
+
+Overfull \hbox (31.02892pt too wide) in paragraph at lines 348--349
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/MatlabCode3.png, id=76, 465.74pt x 311.66437pt>
+File: images/MatlabCode3.png Graphic file (type png)
+<use images/MatlabCode3.png>
+Package pdftex.def Info: images/MatlabCode3.png  used on input line 355.
+(pdftex.def)             Requested size: 349.30414pt x 233.7477pt.
+
+Overfull \hbox (4.30414pt too wide) in paragraph at lines 355--356
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/MatlabCode4.png, id=77, 578.66188pt x 312.16624pt>
+File: images/MatlabCode4.png Graphic file (type png)
+<use images/MatlabCode4.png>
+Package pdftex.def Info: images/MatlabCode4.png  used on input line 362.
+(pdftex.def)             Requested size: 433.99535pt x 234.1241pt.
+
+Overfull \hbox (88.99535pt too wide) in paragraph at lines 362--363
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/MatlabCode5.png, id=78, 571.13374pt x 301.62688pt>
+File: images/MatlabCode5.png Graphic file (type png)
+<use images/MatlabCode5.png>
+Package pdftex.def Info: images/MatlabCode5.png  used on input line 369.
+(pdftex.def)             Requested size: 428.34926pt x 226.21959pt.
+
+Overfull \hbox (83.34926pt too wide) in paragraph at lines 369--370
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/MatlabCode6.png, id=79, 563.60562pt x 304.13625pt>
+File: images/MatlabCode6.png Graphic file (type png)
+<use images/MatlabCode6.png>
+Package pdftex.def Info: images/MatlabCode6.png  used on input line 376.
+(pdftex.def)             Requested size: 422.70317pt x 228.10162pt.
+
+Overfull \hbox (77.70317pt too wide) in paragraph at lines 376--377
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/MatlabCode7.png, id=80, 661.47125pt x 306.14375pt>
+File: images/MatlabCode7.png Graphic file (type png)
+<use images/MatlabCode7.png>
+Package pdftex.def Info: images/MatlabCode7.png  used on input line 383.
+(pdftex.def)             Requested size: 429.95122pt x 198.99107pt.
+
+Overfull \hbox (84.95122pt too wide) in paragraph at lines 383--384
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/MatlabCode8.png, id=81, 680.5425pt x 328.72812pt>
+File: images/MatlabCode8.png Graphic file (type png)
+<use images/MatlabCode8.png>
+Package pdftex.def Info: images/MatlabCode8.png  used on input line 390.
+(pdftex.def)             Requested size: 442.34738pt x 213.67073pt.
+
+Overfull \hbox (97.34738pt too wide) in paragraph at lines 390--391
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/PIDController.png, id=82, 304.13625pt x 227.34938pt>
+File: images/PIDController.png Graphic file (type png)
+<use images/PIDController.png>
+Package pdftex.def Info: images/PIDController.png  used on input line 401.
+(pdftex.def)             Requested size: 228.10162pt x 170.51161pt.
+[10 <./images/MatlabCode1.png>]
+
+LaTeX Warning: Text page 11 contains only floats.
+
+[11 <./images/MatlabCode2.png> <./images/MatlabCode3.png>]
+
+LaTeX Warning: Text page 12 contains only floats.
+
+[12 <./images/MatlabCode4.png> <./images/MatlabCode5.png>]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13 <./images/MatlabCode6.png> <./images/MatlabCode7.png>] [14 <./images/Matlab
+Code8.png> <./images/PIDController.png (PNG copy)>]
+<images/SSE_Sketch.png, id=107, 462.22687pt x 186.6975pt>
+File: images/SSE_Sketch.png Graphic file (type png)
+<use images/SSE_Sketch.png>
+Package pdftex.def Info: images/SSE_Sketch.png  used on input line 417.
+(pdftex.def)             Requested size: 346.6693pt x 140.02277pt.
+
+Overfull \hbox (1.6693pt too wide) in paragraph at lines 417--418
+ [][] 
+ []
+
+<images/SSE_BeforePID_Simulink.png, id=108, 772.38562pt x 510.90875pt>
+File: images/SSE_BeforePID_Simulink.png Graphic file (type png)
+<use images/SSE_BeforePID_Simulink.png>
+Package pdftex.def Info: images/SSE_BeforePID_Simulink.png  used on input line 
+424.
+(pdftex.def)             Requested size: 386.19186pt x 255.45375pt.
+
+Overfull \hbox (41.19186pt too wide) in paragraph at lines 424--425
+ [][] 
+ []
+
+[15 <./images/SSE_Sketch.png> <./images/SSE_BeforePID_Simulink.png>]
+<images/stepResponse_PID_MATLAB.png, id=114, 378.41376pt x 305.64188pt>
+File: images/stepResponse_PID_MATLAB.png Graphic file (type png)
+<use images/stepResponse_PID_MATLAB.png>
+Package pdftex.def Info: images/stepResponse_PID_MATLAB.png  used on input line
+ 437.
+(pdftex.def)             Requested size: 283.80962pt x 229.23083pt.
+<images/stepResponse_PID_Simulink.png, id=115, 772.8875pt x 506.39188pt>
+File: images/stepResponse_PID_Simulink.png Graphic file (type png)
+<use images/stepResponse_PID_Simulink.png>
+Package pdftex.def Info: images/stepResponse_PID_Simulink.png  used on input li
+ne 444.
+(pdftex.def)             Requested size: 347.79616pt x 227.87422pt.
+
+Overfull \hbox (2.79616pt too wide) in paragraph at lines 444--445
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/SSE_AfterPID_Simulink.png, id=116, 773.89125pt x 512.41437pt>
+File: images/SSE_AfterPID_Simulink.png Graphic file (type png)
+<use images/SSE_AfterPID_Simulink.png>
+Package pdftex.def Info: images/SSE_AfterPID_Simulink.png  used on input line 4
+51.
+(pdftex.def)             Requested size: 348.24785pt x 230.58434pt.
+
+Overfull \hbox (3.24785pt too wide) in paragraph at lines 451--452
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/SSE_MATLAB.png, id=117, 530.98375pt x 187.19937pt>
+File: images/SSE_MATLAB.png Graphic file (type png)
+<use images/SSE_MATLAB.png>
+Package pdftex.def Info: images/SSE_MATLAB.png  used on input line 458.
+(pdftex.def)             Requested size: 398.23682pt x 140.39919pt.
+
+Overfull \hbox (53.23682pt too wide) in paragraph at lines 458--459
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/SSE_Sketch_Ramp.png, id=118, 400.99812pt x 153.57375pt>
+File: images/SSE_Sketch_Ramp.png Graphic file (type png)
+<use images/SSE_Sketch_Ramp.png>
+Package pdftex.def Info: images/SSE_Sketch_Ramp.png  used on input line 471.
+(pdftex.def)             Requested size: 300.74785pt x 115.18002pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/SSE_BeforePID_Simulink_Ramp.png, id=119, 772.38562pt x 509.40312pt>
+File: images/SSE_BeforePID_Simulink_Ramp.png Graphic file (type png)
+<use images/SSE_BeforePID_Simulink_Ramp.png>
+Package pdftex.def Info: images/SSE_BeforePID_Simulink_Ramp.png  used on input 
+line 478.
+(pdftex.def)             Requested size: 386.19186pt x 254.70093pt.
+
+Overfull \hbox (41.19186pt too wide) in paragraph at lines 478--479
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/rampparabolicResponse_PID_MATLAB.png, id=120, 632.3625pt x 474.27188pt>
+
+File: images/rampparabolicResponse_PID_MATLAB.png Graphic file (type png)
+<use images/rampparabolicResponse_PID_MATLAB.png>
+Package pdftex.def Info: images/rampparabolicResponse_PID_MATLAB.png  used on i
+nput line 489.
+(pdftex.def)             Requested size: 316.18048pt x 237.13536pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/rampResponse_PID_Simulink.png, id=121, 771.38188pt x 510.90875pt>
+File: images/rampResponse_PID_Simulink.png Graphic file (type png)
+<use images/rampResponse_PID_Simulink.png>
+Package pdftex.def Info: images/rampResponse_PID_Simulink.png  used on input li
+ne 496.
+(pdftex.def)             Requested size: 347.11864pt x 229.90681pt.
+
+Overfull \hbox (2.11864pt too wide) in paragraph at lines 496--497
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[16 <./images/stepResponse_PID_MATLAB.png>]
+
+LaTeX Warning: Text page 17 contains only floats.
+
+[17 <./images/stepResponse_PID_Simulink.png> <./images/SSE_AfterPID_Simulink.pn
+g>]
+<images/SSE_Sketch_Parabolic.png, id=131, 334.75063pt x 131.49126pt>
+File: images/SSE_Sketch_Parabolic.png Graphic file (type png)
+<use images/SSE_Sketch_Parabolic.png>
+Package pdftex.def Info: images/SSE_Sketch_Parabolic.png  used on input line 50
+9.
+(pdftex.def)             Requested size: 251.06235pt x 98.61818pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/SSE_BeforePID_Simulink_Parabolic.png, id=132, 773.89125pt x 511.9125pt>
+
+File: images/SSE_BeforePID_Simulink_Parabolic.png Graphic file (type png)
+<use images/SSE_BeforePID_Simulink_Parabolic.png>
+Package pdftex.def Info: images/SSE_BeforePID_Simulink_Parabolic.png  used on i
+nput line 516.
+(pdftex.def)             Requested size: 386.94467pt x 255.95563pt.
+
+Overfull \hbox (41.94467pt too wide) in paragraph at lines 516--517
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<images/parabolicResponse_PID_Simulink.png, id=133, 772.38562pt x 510.40688pt>
+File: images/parabolicResponse_PID_Simulink.png Graphic file (type png)
+<use images/parabolicResponse_PID_Simulink.png>
+Package pdftex.def Info: images/parabolicResponse_PID_Simulink.png  used on inp
+ut line 534.
+(pdftex.def)             Requested size: 347.57031pt x 229.68097pt.
+
+Overfull \hbox (2.57031pt too wide) in paragraph at lines 534--535
+ [][] 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[18 <./images/SSE_MATLAB.png> <./images/SSE_Sketch_Ramp.png>] [19 <./images/SSE
+_BeforePID_Simulink_Ramp.png>]
+
+LaTeX Warning: Text page 20 contains only floats.
+
+[20 <./images/rampparabolicResponse_PID_MATLAB.png (PNG copy)> <./images/rampRe
+sponse_PID_Simulink.png>] [21 <./images/SSE_Sketch_Parabolic.png> <./images/SSE
+_BeforePID_Simulink_Parabolic.png>] [22 <./images/parabolicResponse_PID_Simulin
+k.png>] (Report_Control_Systems.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 5238 strings out of 474485
+ 92559 string characters out of 5743734
+ 1936542 words of memory out of 5000000
+ 27492 multiletter control sequences out of 15000+600000
+ 560722 words of font info for 45 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 72i,17n,79p,530b,433s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\aalia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1000.pk><C:/Users/aalia/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb><C:/Users/aalia/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><C:/Users/aalia/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmex10.pfb><C:/Users/aalia/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/aalia/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/aalia/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/aalia/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr5.pfb><C:/Users/aa
+lia/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/U
+sers/aalia/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb><C:/Users/aalia/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmsy7.pfb><C:/Users/aalia/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmti10.pfb>
+Output written on Report_Control_Systems.pdf (22 pages, 1423607 bytes).
+PDF statistics:
+ 207 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 151 words of extra memory for PDF output out of 10000 (max. 10000000)
+

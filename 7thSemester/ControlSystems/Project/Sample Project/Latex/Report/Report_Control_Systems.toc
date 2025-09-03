@@ -1,0 +1,33 @@
+\contentsline {section}{\numberline {1}Problem which is considered}{3}{}%
+\contentsline {section}{\numberline {2}Solution}{4}{}%
+\contentsline {subsection}{\numberline {2.1}State-space Representation of the System}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Stability analysis of the system}{4}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Eigen Values}{4}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Poles}{4}{}%
+\contentsline {subsubsection}{\numberline {2.2.3}Step Response}{4}{}%
+\contentsline {subsubsection}{\numberline {2.2.4}Pole-Zero Map}{5}{}%
+\contentsline {subsubsection}{\numberline {2.2.5}Root Locus}{5}{}%
+\contentsline {subsection}{\numberline {2.3}Controllability analysis of the system}{5}{}%
+\contentsline {subsection}{\numberline {2.4}Observability analysis of the system}{6}{}%
+\contentsline {subsection}{\numberline {2.5}Controller Design for the system}{6}{}%
+\contentsline {subsubsection}{\numberline {2.5.1}Steady-State Error}{6}{}%
+\contentsline {paragraph}{Step Input (\( R(s) = \frac {1}{s} \))}{8}{}%
+\contentsline {paragraph}{Ramp Input (\( R(s) = \frac {1}{s^2} \))}{8}{}%
+\contentsline {paragraph}{Parabolic Input (\( R(s) = \frac {1}{s^3} \))}{8}{}%
+\contentsline {subsubsection}{\numberline {2.5.2}PID Controller Design}{8}{}%
+\contentsline {subsection}{\numberline {2.6}Controller Design for given System}{9}{}%
+\contentsline {subsubsection}{\numberline {2.6.1}Step Input (\( R(s) = \frac {1}{s} \))}{9}{}%
+\contentsline {subsubsection}{\numberline {2.6.2}Ramp Input (\( R(s) = \frac {1}{s^2} \))}{9}{}%
+\contentsline {subsubsection}{\numberline {2.6.3}Parabolic Input (\( R(s) = \frac {1}{s^3} \))}{10}{}%
+\contentsline {section}{\numberline {3}MATLAB Code}{10}{}%
+\contentsline {section}{\numberline {4}Results and Discussions}{13}{}%
+\contentsline {subsection}{\numberline {4.1}SSE for Step Response}{14}{}%
+\contentsline {subsubsection}{\numberline {4.1.1}SSE Calculation before PID Design}{15}{}%
+\contentsline {subsubsection}{\numberline {4.1.2}SSE Calculation after PID Design}{16}{}%
+\contentsline {subsection}{\numberline {4.2}SSE for Ramp Response}{16}{}%
+\contentsline {subsubsection}{\numberline {4.2.1}SSE Calculation before PID Design}{16}{}%
+\contentsline {subsubsection}{\numberline {4.2.2}SSE Calculation after PID Design}{16}{}%
+\contentsline {subsection}{\numberline {4.3}SSE for Parabolic Response}{18}{}%
+\contentsline {subsubsection}{\numberline {4.3.1}SSE Calculation before PID Design}{18}{}%
+\contentsline {subsubsection}{\numberline {4.3.2}SSE Calculation after PID Design}{18}{}%
+\contentsline {section}{\numberline {5}Conclusion}{19}{}%

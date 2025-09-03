@@ -1,0 +1,77 @@
+Game Report: League of Assassins
+
+Overview:
+
+League of Assassins is a top-down stealth action game set in meticulously crafted 3D environments where players assume the role of an elite assassin. With a knife for silent kills and a gun equipped with a silencer for discreet ranged eliminations, players must infiltrate various locations to eliminate high-profile targets while staying undetected. Every level offers multiple approaches to completing the mission, with different outcomes depending on the player’s tactics. A dynamic fame system tracks the player’s performance and showcases their reputation as an assassin, rewarding stealth and precision while penalizing reckless actions.
+
+Gameplay Mechanics:
+
+• Top-Down Gameplay: The game features a top-down perspective, providing players with a strategic view of the environment and allowing them to plan their movements and stealth tactics effectively. The 3D environments are rich and detailed, offering multiple pathways, hiding spots, and opportunities for environmental interaction, which are crucial for completing stealth-based missions.
+
+• Player Character - The Assassin: Players take on the role of a skilled assassin belonging to the prestigious League of Assassins. The character is equipped with two primary weapons:
+
+• Knife: A silent, close-range weapon that allows the player to eliminate targets quietly and without alerting others. It is ideal for stealth kills when the player is up close to enemies.
+
+• Silenced Gun: A range weapon with a silencer attached, ensuring that the gunshots do not alert nearby enemies. However, the gun has limited ammunition, so players must use it strategically, balancing between silent knife kills and careful gunshots when needed.
+
+The key challenge is to carefully use both weapons in combination, determining when to rely on stealthy knife kills or when the silenced gun is necessary to eliminate distant or harder-to-reach targets.
+
+• Stealth and Assassination: At the heart of the gameplay is the need for stealth. The environment is full of patrolling enemies and obstacles, and players must navigate these spaces without being detected. The enemy AI is programmed with dynamic behavior patterns, including patrolling, standing guard, and reacting to noises or visual cues.
+
+• Detection System: Enemies have a field of vision and a hearing range. If the player enters this field or makes noise, they risk being detected. The player’s goal is to avoid detection by using cover, staying out of sight, and using the silenced gun or knife when appropriate. The player must plan their approach carefully to avoid triggering alarms or being seen.
+
+• Level Objectives and Approaches: Each mission has a central target the player must eliminate. There are multiple ways to complete the objectives:
+
+• Stealth Kill (Silent Approach): The player avoids detection by using the knife and silenced gun to take out enemies quietly. The target is killed without alerting anyone, and no chaos is caused. This approach reflects a true assassin's skill and rewards players with high fame.
+
+• Discreet Gunshots (Silenced Approach): The player uses the silenced gun to eliminate the target or any necessary guards. Although this still maintains a level of discretion, it’s riskier than relying on the knife. Players must be cautious with the gun’s limited ammo.
+
+• Avoid Combat (Non-violent Approach): The player may decide to avoid killing other enemies entirely, focusing only on the target. By bypassing most guards and using stealth to reach the target undetected, the player avoids unnecessary bloodshed, which can impact the ending.
+
+Each of these approaches influences the level’s outcome and ultimately affects the player’s reputation and fame.
+
+• Multiple Endings: League of Assassins features various endings depending on how players complete the missions:
+
+• Master Assassin Ending: If the player eliminates the target with utmost discretion and minimal disturbance, they are hailed as a master assassin. This ending showcases the player’s stealth and precision, reflecting their high fame.
+
+• The Silent But Deadly Ending: The player uses both the knife and silenced gun in harmony, keeping a clean kill record without raising alarms. While the mission is completed with fewer casualties, the player’s approach may still garner attention from high-profile NPCs who recognize their skills.
+
+• Noisy but Effective Ending: If the player makes any loud noise or uses the silenced gun recklessly, they are marked as a more aggressive assassin. This leads to a more chaotic ending with enemies on high alert and possibly a higher chance of failure.
+
+• Failed Stealth Ending: If the player is detected during the mission, the game forces a shift to combat mode. The player may then choose to fight their way out or attempt a hasty escape, but they will suffer a loss in reputation, and the mission ends in failure.
+
+Fame System:
+
+The Fame System is integral to the progression of the game and reflects how well the player executes their role as an assassin.
+
+• Increasing Fame:
+
+• Undetected Assassinations: Completing the mission without being detected or causing alarms increases the player’s fame. Executing silent kills with the knife or using the silenced gun effectively contributes to a reputation as a skilled assassin.
+
+• Efficient and Quick Execution: Players who complete the level swiftly, using minimal resources and evading enemies, gain higher fame scores. This approach highlights the assassin’s efficiency and skill.
+
+• Avoiding Unnecessary Kills: The player gains fame for focusing solely on the target and avoiding unnecessary bloodshed or combat with additional enemies. Non-lethal approaches also lead to higher prestige in the League of Assassins.
+
+• Decreasing Fame:
+
+• Loud Eliminations: Using the gun recklessly, especially when not needed, reduces fame. While the silenced gun is quiet, players who fire it unnecessarily or waste ammunition lose points in the fame system.
+
+• Increased Violence: If the player kills too many guards or causes unnecessary chaos, their fame decreases. The League of Assassins values precision over carnage, so excessive violence negatively affects the assassin’s reputation.
+
+• Failed Stealth: If the player is detected, either by being seen or heard, they lose a significant amount of fame. A failed stealth attempt reflects poorly on the assassin’s ability to stay undetected.
+
+• Impact of Fame:
+
+• High Fame: As the player's fame grows, they unlock more challenging levels with tougher enemies and additional layers of security. NPCs in the world may treat the player differently, acknowledging their success and presenting new opportunities.
+
+• Low Fame: If the player’s fame decreases, it may lead to harder missions, with more alert enemies or increased surveillance. However, lower fame may also grant the player easier access to information or leniency from certain factions within the game world.
+
+Visuals and Audio:
+
+• 3D Environments: The game features expansive 3D environments that vary from urban settings and sleek high-rise buildings to more intimate, confined spaces like dark alleyways and hidden underground facilities. Each environment is designed to encourage strategic thinking, with ample opportunities for stealth, hiding spots, and creative ways to approach the target. The levels are interactive, with objects that can be manipulated for environmental kills or cover.
+
+• Audio Design: The audio system is key to maintaining the atmosphere of tension and suspense. Footsteps, subtle background noise, and the faint sound of an enemy’s movement make it easier for the player to determine when they are close to detection. The silenced gun’s muffled shots blend into the background, maintaining the stealthy ambiance. On the other hand, any loud noises, including non-silenced gunshots or alarms, disrupt the atmosphere, triggering heightened tension and alerting enemies.
+
+Conclusion:
+
+League of Assassins offers a rich and immersive stealth experience, where careful planning, precise execution, and tactical thinking are essential to success. With the ability to take on missions in multiple ways and a fame system that adapts to the player’s choices, every decision matters. Whether you prefer silent knife kills, discreet gunshots, or non-violent approaches, the game rewards those who can navigate its dangerous world with finesse and precision. Your reputation as an assassin will shape your journey in the League of Assassins, and only the most skilled will achieve the highest fame and respect.

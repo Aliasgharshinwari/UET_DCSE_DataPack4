@@ -1,4 +1,0 @@
-https://colab.ws/articles/10.1109%2Ftvlsi.2023.3282046
-
-You, Y., et al. Fast LSTM by dynamic decomposition on cloud and distributed systems. 
-Knowledge and Information Systems, 2020 
